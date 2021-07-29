@@ -1,2 +1,3 @@
 # Piano
- QT 5.15.2 Piano multimedia
+Piano multimedia
+Press keys to play music
